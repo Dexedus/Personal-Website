@@ -1,0 +1,58 @@
+#Name{
+    font-family: Mr De Haviland;
+    font-size: 50px;
+}
+
+body{
+    background-color: rgb(240, 235, 227);
+}
+
+.divider{
+    background-color: rgb(33, 37, 41);
+    height: 10px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
+    border-radius: 50px;
+}
+
+.MyRow{
+    background-color: rgb(33, 37, 41);
+    color: white;
+    min-height: 400px;
+    font-family: Signika Negative;
+}
+
+.images{
+    width: 100%;
+    max-height: 400px;
+
+}
+
+.Info, .why{
+    font-size: 1.5rem;
+    list-style: none;
+}
+
+.Divider-White{
+    width: 80%;
+    height: 5px;
+    background-color:rgb(240, 235, 227) ;
+    margin: auto;
+    border-radius: 50px;
+}
+
+#aboutpara{
+    font-size: 20px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+#Box{
+    border: solid 5px rgba(231, 183, 25, 0.884);
+}
+
+a{
+    color: rgb(33, 37, 41);
+}
